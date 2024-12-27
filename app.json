@@ -1,7 +1,7 @@
 {
   "name": "ᴀᴠᴀʀᴏʙᴏᴛ",
   "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-  "repository": "https://github.com/doraemon890/AvaRobot",
+  "repository": "https://github.com/Sandalivihansa/maxRobot/",
   "logo": "https://telegra.ph/file/61296490da95c55a1d5ee.jpg",
   "keywords": [
     "python3",
@@ -44,7 +44,7 @@
     "OWNER_ID": {
       "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
       "required": true,
-      "value": "7044783841"
+      "value": "1451534504"
     },
     "DEV_USERS": {
       "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
